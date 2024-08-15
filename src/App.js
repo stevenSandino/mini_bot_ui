@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import MiniBot from './presentation/MiniBot';
+import MiniBot from './presentation/MiniBot.tsx';
+import React from 'react';
+import './presentation/style.css';
 
 function App() {
   return (
